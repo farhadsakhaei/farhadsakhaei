@@ -23,7 +23,9 @@ Inviting you to explore my GitHub journey with open arms. 🌟
     <img src="https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white" alt="AMP">
     <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Google Chrome">
     <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive">
+    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
     <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Adobe Acrobat Reader">
+    <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom">
 </p>
 
 ---
@@ -49,6 +51,11 @@ Inviting you to explore my GitHub journey with open arms. 🌟
     <a href="https://www.youtube.com/@farhadsakhaei/">
         <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
     </a>
+    <a href="https://stackexchange.com/users/1933490/farhad-sakhaei?tab=accounts">
+        <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange" alt="Stack Exchange">
+    </a>
+
+    
 </p>
 
 ---
