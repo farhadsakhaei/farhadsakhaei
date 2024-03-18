@@ -118,7 +118,7 @@ Inviting you to explore my GitHub journey with open arms. 🌟
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadsakhaei&count_private=true&show_icons=true&theme=dark" />
     <!--/a-->
     <!--a href="https://lon9.github.io"-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedidata&count_private=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadsakhaei&count_private=true&theme=dark" />
     <!--/a-->
 </p>
 <!--
