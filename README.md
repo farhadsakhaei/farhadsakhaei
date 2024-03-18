@@ -51,6 +51,9 @@ Inviting you to explore my GitHub journey with open arms. 🌟
     <a href="https://www.youtube.com/@farhadsakhaei/">
         <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
     </a>
+    <a href="https://stackoverflow.com/users/1742391/farhad-sakhaei">
+        <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+    </a>
     <a href="https://stackexchange.com/users/1933490/farhad-sakhaei?tab=accounts">
         <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange" alt="Stack Exchange">
     </a>
