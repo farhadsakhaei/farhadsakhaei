@@ -1,5 +1,5 @@
-# A heartfelt welcome from **Farhad Sakhaei**, inviting you to explore my GitHub journey with open arms. 🌟
-My name is **Farhad Sakhaei** and I'm a software engineer.
+# A heartfelt welcome from **Farhad Sakhaei**
+inviting you to explore my GitHub journey with open arms. 🌟
 
 ---
 <h2 align="center">Technologies & Languages I use</h2>
