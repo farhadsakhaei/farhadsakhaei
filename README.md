@@ -41,14 +41,14 @@ My name is **Farhad Sakhaei** and I'm a software engineer.
 
 ---
 <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadsakhaei&show_icons=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadsakhaei&layout=compact"/>
-    </p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadsakhaei&show_icons=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadsakhaei&layout=compact"/>
     <a href="https://lon9.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=farhadsakhaei&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://lon9.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadsakhaei&theme=dark&hide=html" />
-</a>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=farhadsakhaei&count_private=true&show_icons=true&theme=dark" />
+    </a>
+    <a href="https://lon9.github.io">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadsakhaei&theme=dark&hide=html" />
+    </a>
+</p>
 <!--
 **farhadsakhaei/farhadsakhaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
