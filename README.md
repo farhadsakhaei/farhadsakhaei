@@ -41,9 +41,7 @@ My name is **Farhad Sakhaei** and I'm a software engineer.
 
 ---
 <details align="center">
-    <summary>
-        <b>More</b><br>
-    </summary>
+
     <br>
     <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadsakhaei&show_icons=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadsakhaei&layout=compact"/>
