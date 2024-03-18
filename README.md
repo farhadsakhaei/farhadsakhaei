@@ -100,9 +100,6 @@ Inviting you to explore my GitHub journey with open arms. 🌟
     <a href="https://t.me/FarhadAdmin">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
-    <a href="mailto:farhad0@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
     <a href="https://twitter.com/farhadsakhaei">
         <img src="https://img.shields.io/twitter/follow/farhadsakhaei?label=Twitter&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
     </a>
