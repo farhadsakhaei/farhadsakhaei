@@ -40,7 +40,7 @@ My name is **Farhad Sakhaei** and I'm a software engineer.
 </p>
 
 ---
-<details align="center">
+<p align="center">
     <summary>
         <b>More</b><br>
     </summary>
@@ -55,7 +55,7 @@ My name is **Farhad Sakhaei** and I'm a software engineer.
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadsakhaei&theme=dark&hide=html" />
 </a>
 
-</details>
+</p>
 <!--
 **farhadsakhaei/farhadsakhaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
