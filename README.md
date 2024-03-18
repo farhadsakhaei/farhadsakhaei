@@ -110,8 +110,9 @@ Inviting you to explore my GitHub journey with open arms. 🌟
 
 ---
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadsakhaei&count_private=true&show_icons=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadsakhaei&count_private=true&layout=compact"/>
+    <!--img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadsakhaei&count_private=true&show_icons=true"/-->
+    <!--img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadsakhaei&count_private=true&layout=compact"/-->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadsakhaei&count_private=true"/>
     <!--img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadsakhaei&count_private=true&show_icons=true&theme=dark" /-->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadsakhaei&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadsakhaei&count_private=true&theme=dark" />
