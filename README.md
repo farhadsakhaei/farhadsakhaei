@@ -79,7 +79,10 @@ Inviting you to explore my GitHub journey with open arms. 🌟
     <a href="https://github.com/farhadsakhaei">
         <img src="https://img.shields.io/github/followers/farhadsakhaei?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
     </a>
-    <a href="https://profiles.wordpress.org/farhad0/">
+    <a href="https://profiles.wordpress.org/farhad0">
+        <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
+    </a>
+    <a href="https://profiles.wordpress.org/dedidata">
         <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
     </a>
     <a href="https://www.linkedin.com/in/farhadsakhaei">
