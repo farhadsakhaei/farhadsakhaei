@@ -106,8 +106,6 @@ Inviting you to explore my GitHub journey with open arms. 🌟
     <a href="https://stackexchange.com/users/1933490/farhad-sakhaei?tab=accounts">
         <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange" alt="Stack Exchange">
     </a>
-
-    
 </p>
 
 ---
@@ -120,6 +118,8 @@ Inviting you to explore my GitHub journey with open arms. 🌟
     <!--a href="https://lon9.github.io"-->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadsakhaei&count_private=true&theme=dark" />
     <!--/a-->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadsakhaei&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    
 </p>
 <!--
 **farhadsakhaei/farhadsakhaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
