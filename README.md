@@ -73,6 +73,9 @@ Inviting you to explore my GitHub journey with open arms. 🌟
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
+    <a href="https://github.com/dedidata">
+        <img src="https://img.shields.io/github/followers/farhadsakhaei?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+    </a>
     <a href="https://github.com/farhadsakhaei">
         <img src="https://img.shields.io/github/followers/farhadsakhaei?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
     </a>
